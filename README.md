@@ -1,0 +1,1 @@
+# MemoryAlarmTestTask for DocuSketch
