@@ -1,4 +1,6 @@
-# MemoryAlarmTestTask for DocuSketch
+# MemoryAlarmTestTask
+Simple script to check if memory is full and alarm server for DocuSketch test task
+
 You need firstly to run test_server.py and then run memory_checker.py.
 
 test_server.py has 1 controller on "/alarm"-url.
